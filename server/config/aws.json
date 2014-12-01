@@ -1,6 +1,6 @@
 {
-  "accessKeyId": "AKIAJMRYJGQWTXI573GA",
-  "secretAccessKey": "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",
-  "region": "Oregon",
-  "bucket": "gigsfeed-dev"
+  "accessKeyId": "xxxxx",
+  "secretAccessKey": "xxxxxx/",
+  "region": "xxxxxxxxx",
+  "bucket": "xxxxxxxxxxxxxx"
 }
